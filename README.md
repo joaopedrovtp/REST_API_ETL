@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![architecture_img](/diagram.png)
+![architecture_img](docs/diagram.png)
 
 ## Summary
 
@@ -12,7 +12,7 @@ My idea was to implement authentication, security configurations, and tests for 
 
 Finally, I deployed it on Azure using Azure Container Apps.
 
-![azure_img](/azure_dpl.png)
+![azure_img](docs/azure_dpl.png)
 
 ## How to run it
 
